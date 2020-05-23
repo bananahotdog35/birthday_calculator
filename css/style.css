@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 125%;
+}
+
+.container {
+    width: 30%;
+    margin: auto;
+    background-color: dodgerblue;
+}
+
+table {
+    width: 100%;
+}
+
+.right {
+    text-align: right;
+}
+
+table, td {
+    border: 1px solid black;
+}
